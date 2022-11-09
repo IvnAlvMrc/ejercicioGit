@@ -37,3 +37,8 @@ $ git commit -m "Añadí un programa que crea y muestra un objeto"
 git add .
 git commit -m "Eliminado el directorio out"
 ```
+7 - Añadí este ```README.md```
+```
+git add .
+git commit -m "Añadiendo el readme.md"
+```
