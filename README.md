@@ -23,7 +23,7 @@
 
 4 - Originé el archivo ___.gitignore___ e hice el commit correspondiente. corespondiente 
 
-5 - Copie el programa que crea y muestra un objeto de otro proyecto que ya tenía hecho y lo puse en mi nuevo proyecto. Realice el commit.
+5 - Copie el programa que crea y muestra un objeto de otro proyecto que ya tenía hecho y lo puse en mi nuevo proyecto. adwaRealice el commit.
 
 ```
 $ git add . 
@@ -34,11 +34,11 @@ $ git commit -m "Añadí un programa que crea y muestra un objeto"
 ![Eliminando out](https://i.ibb.co/nB7C0qf/eliminarout.png)
 
 ```
-git add .
-git commit -m "Eliminado el directorio out"
+$ git add .
+$ git commit -m "Eliminado el directorio out"
 ```
 7 - Añadí este ```README.md```
 ```
-git add .
-git commit -m "Añadiendo el readme.md"
+$ git add .
+$ git commit -m "Añadiendo el readme.md"
 ```
