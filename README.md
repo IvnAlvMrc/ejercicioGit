@@ -23,7 +23,7 @@
 
 4 - Originé el archivo ___.gitignore___ e hice el commit correspondiente. corespondiente 
 
-5 - Copie el programa que crea y muestra un objeto de otro proyecto que ya tenía hecho y lo puse en mi nuevo proyecto. adwaRealice el commit.
+5 - Copie el programa que crea y muestra un objeto de otro proyecto que ya tenía hecho y lo puse en mi nuevo proyecto. Realice el commit.
 
 ```
 $ git add . 
